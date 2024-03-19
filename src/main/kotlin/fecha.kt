@@ -1,4 +1,4 @@
-class Fch(private val d: Int, private val m: Int, private val a: Int) {
+class fecha(private val d: Int, private val m: Int, private val a: Int) {
 
 
     fun valida(): Boolean {
